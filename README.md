@@ -40,4 +40,4 @@ When looking at the big picture,  the “silver tsunami” will impact 32% of it
 ### Pewlett-Hackard Employee Status ![Pewlett-Hackard Employee Status](https://github.com/AQUINT01/Pewlett-Hackard-Analysis/blob/main/images/PH_emp_status_pieChart.png)
 
 
-It is clear Pewlett Hackard has a  lot of ground to cover in order to be ready for the   “silver tsunami”.  1,551 employees ready to mentor roughly 80,109 new position may not be enough.
+It is clear Pewlett Hackard has a  lot of ground to cover in order to be ready for the   “silver tsunami”.  1,551 employees ready to mentor roughly 80,109 new positions may not be enough.
