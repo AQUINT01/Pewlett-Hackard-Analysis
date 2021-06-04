@@ -11,7 +11,10 @@ For this exercise you will be assisting Pewlett Hackard prepare for a large segm
 
 -  An estimated 50,842 retiring employees are senior engineers (25,916) and staff (24,926).
 
-### Retiring Employees by Titles  ![Retiring Employees by Titles](https://github.com/AQUINT01/Pewlett-Hackard-Analysis/blob/main/images/retiring_emp_titles.png)
+### Retiring Employees by Titles  ![Retiring Employees by Titles]
+
+(https://github.com/AQUINT01/Pewlett-Hackard-Analysis/blob/main/images/retiring_emp_titles.png)
+
 
 
 -  84.62% of employees held previous junior positions at PH. The unique tiltles records yielded 72,458 records from 133,777 in the retirement titles table.
@@ -19,7 +22,10 @@ For this exercise you will be assisting Pewlett Hackard prepare for a large segm
 
 -  A total of 1,551 employees qualify for the mentorship program.
 
-### Mentorship Eligibility  ![Mentorship Eligibility](https://github.com/AQUINT01/Pewlett-Hackard-Analysis/blob/main/images/mentorship_eligible_titles.png)
+### Mentorship Eligibility  ![Mentorship Eligibility]
+
+(https://github.com/AQUINT01/Pewlett-Hackard-Analysis/blob/main/images/mentorship_eligible_titles.png)
+
 
 
 -  Of the 1,551 employees eligible for the mentorship program, 1,098 hold senior positions, (senior staff plus senior engineers).
