@@ -11,9 +11,8 @@ For this exercise you will be assisting Pewlett Hackard prepare for a large segm
 
 -  An estimated 50,842 retiring employees are senior engineers (25,916) and staff (24,926).
 
-### Retiring Employees by Titles  ![Retiring Employees by Titles]
-
-(https://github.com/AQUINT01/Pewlett-Hackard-Analysis/blob/main/images/retiring_emp_titles.png)
+### Retiring Employees by Titles  
+![Retiring Employees by Titles](https://github.com/AQUINT01/Pewlett-Hackard-Analysis/blob/main/images/retiring_emp_titles.png)
 
 
 
@@ -22,9 +21,8 @@ For this exercise you will be assisting Pewlett Hackard prepare for a large segm
 
 -  A total of 1,551 employees qualify for the mentorship program.
 
-### Mentorship Eligibility  ![Mentorship Eligibility]
-
-(https://github.com/AQUINT01/Pewlett-Hackard-Analysis/blob/main/images/mentorship_eligible_titles.png)
+### Mentorship Eligibility  
+![Mentorship Eligibility](https://github.com/AQUINT01/Pewlett-Hackard-Analysis/blob/main/images/mentorship_eligible_titles.png)
 
 
 
